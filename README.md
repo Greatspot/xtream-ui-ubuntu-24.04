@@ -7,5 +7,5 @@
 1. Run the following in a terminal.
 
     ```sh
-    sudo apt update && rm -rf install.py && wget -qO install.py https://raw.githubusercontent.com/edik1963/xtream-ui-ubuntu-24.04/refs/heads/main/install.py && sudo chmod +x install.py && sudo python3 install.py -y
+    sudo apt update && rm -rf install.py && wget -qO install.py https://raw.githubusercontent.com/greatspot/xtream-ui-ubuntu-24.04/refs/heads/main/install.py && sudo chmod +x install.py && sudo python3 install.py -y
     ```
