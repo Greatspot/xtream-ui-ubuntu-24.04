@@ -386,7 +386,7 @@ if __name__ == "__main__":
     if not rVersion in rVersions:
         printc("It can only be installed on Ubuntu 24.04")
         sys.exit(1)
-    printc("X-UI installer in Ubuntu %s - Edik-1963" % rVersion, col.GREEN, 2)
+    printc("X-UI installer in Ubuntu %s - Greatspot" % rVersion, col.GREEN, 2)
     print(" ")
     rType = input("  Installation Type [MAIN, LB, UPDATE]: ")
     print(" ")
